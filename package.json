@@ -1,0 +1,14 @@
+{
+  "name": "matchMedia",
+  "description": "matchMedia polyfill for testing media queries in JS",
+  "version": "0.2.0",
+  "homepage": "http://github.com/CondeNast/matchMedia.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CondeNast/matchMedia.js"
+  },
+  "main": "./matchMedia.js",
+  "publishConfig": {
+    "registry": "https://condenast.registry.nodejitsu.com"
+  }
+}
