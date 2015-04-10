@@ -1,7 +1,7 @@
 {
   "name": "cn-match-media",
   "description": "matchMedia polyfill for testing media queries in JS",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "homepage": "http://github.com/CondeNast/matchMedia.js",
   "repository": {
     "type": "git",
